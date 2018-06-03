@@ -1,4 +1,3 @@
-# NotePad
 NotePad
 =
 软件功能说明书
