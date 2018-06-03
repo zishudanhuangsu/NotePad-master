@@ -1,0 +1,425 @@
+[
+    {
+        "outputFile": "F:\\++++STUDY++++\\NotePad-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 44,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 40,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1420,
+                        "endColumn": 40,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 60,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1659,
+                        "endColumn": 60,
+                        "endOffset": 1715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 45,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1613,
+                        "endColumn": 45,
+                        "endOffset": 1654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 50,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 50,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 299,
+                    "endColumn": 45,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 45,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 42,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1284,
+                        "endColumn": 42,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 46,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endColumn": 46,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 42,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1186,
+                        "endColumn": 42,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 44,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endColumn": 44,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 54,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1229,
+                        "endColumn": 54,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 42,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 42,
+                        "endOffset": 1134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 46,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 46,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 68,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1720,
+                        "endColumn": 68,
+                        "endOffset": 1784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 50,
+                    "endOffset": 783
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1508,
+                        "endColumn": 50,
+                        "endOffset": 1554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 788,
+                    "endColumn": 52,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1559,
+                        "endColumn": 52,
+                        "endOffset": 1607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 45,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 45,
+                        "endOffset": 1502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 49,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 49,
+                        "endOffset": 889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endColumn": 49,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 894,
+                        "endColumn": 49,
+                        "endOffset": 939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 56,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 787,
+                        "endColumn": 56,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 50,
+                    "endOffset": 1090
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 944,
+                        "endColumn": 50,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1095,
+                    "endColumn": 53,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "F:\\++++STUDY++++\\NotePad-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 53,
+                        "endOffset": 1044
+                    }
+                }
+            }
+        ]
+    }
+]
