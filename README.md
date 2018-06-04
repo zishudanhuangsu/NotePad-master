@@ -114,8 +114,8 @@ NotePad
 
 }
   ```
-  # 扩展功能</br>
-  ## UI美化</br>
-    1. UI美化
-    ![UI](https://github.com/zishudanhuangsu/T/blob/master/q2.png)
+# 扩展功能</br>
+## UI美化</br>
+  1. UI美化</br>
+  ![UI](https://github.com/zishudanhuangsu/T/blob/master/q2.png)</br>
 
