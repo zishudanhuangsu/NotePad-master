@@ -117,5 +117,6 @@ NotePad
 # 扩展功能</br>
 ## UI美化</br>
   1. UI美化</br>
+  修改笔记背景</br>
   ![UI](https://github.com/zishudanhuangsu/T/blob/master/q2.png)</br>
 
