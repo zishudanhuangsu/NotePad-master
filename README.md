@@ -78,33 +78,6 @@ NotePad
         searchview.setOnQueryTextListener(NoteSearch.this);  
     }
     @Override
-    public boolean onQueryTextSubmit(String query) {
-        return false;
-    }
-    @Override
-    public boolean onQueryTextChange(String newText) {
-        String selection = NotePad.Notes.COLUMN_NAME_TITLE + " Like ? ";
-        String[] selectionArgs = { "%"+newText+"%" };
-        Cursor cursor = managedQuery(
-                getIntent().getData(),            // Use the default content URI for the provider.
-                PROJECTION,                       // Return the note ID and title for each note. and modifcation date
-                selection,                        // 条件左边
-                selectionArgs,                    // 条件右边
-                NotePad.Notes.DEFAULT_SORT_ORDER  // Use the default sort order.
-        );
-        String[] dataColumns = { NotePad.Notes.COLUMN_NAME_TITLE ,  NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE };
-        int[] viewIDs = { android.R.id.text1 , R.id.text1_time };
-        MyCursorAdapter adapter = new MyCursorAdapter(
-                this,
-                R.layout.noteslist_item,
-                cursor,
-                dataColumns,
-                viewIDs
-        );
-        setListAdapter(adapter);
-        return true;
-    }
-    @Override
     protected void onListItemClick(ListView l, View v, int position, long id) {
         // Constructs a new URI from the incoming URI and the row ID
         Uri uri = ContentUris.withAppendedId(getIntent().getData(), id);
@@ -121,6 +94,34 @@ NotePad
             startActivity(new Intent(Intent.ACTION_EDIT, uri));
         }
     }
+    @Override
+    public boolean onQueryTextSubmit(String query) {
+        return false;
+    }
+    @Override
+    public boolean onQueryTextChange(String newText) {
+        String selection = NotePad.Notes.COLUMN_NAME_TITLE + " Like ? ";
+        String[] selectionArgs = { "%"+newText+"%" };
+        Cursor cursor = managedQuery(
+                getIntent().getData(),            
+                PROJECTION,                     
+                selection,                        
+                selectionArgs,                    
+                NotePad.Notes.DEFAULT_SORT_ORDER  
+        );
+        String[] dataColumns = { NotePad.Notes.COLUMN_NAME_TITLE ,  NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE };
+        int[] viewIDs = { android.R.id.text1 , R.id.text1_time };
+        MyCursorAdapter adapter = new MyCursorAdapter(
+                this,
+                R.layout.noteslist_item,
+                cursor,
+                dataColumns,
+                viewIDs
+        );
+        setListAdapter(adapter);
+        return true;
+    }
+
 }
   ```
 
