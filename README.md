@@ -117,5 +117,5 @@ NotePad
   # 扩展功能
   ## UI美化
     1. 演示结果
-    ![ui美化](https://github.com/zishudanhuangsu/T/blob/master/q2.png)
+    ![UI](https://github.com/zishudanhuangsu/T/blob/master/q2.png)</br>
 
