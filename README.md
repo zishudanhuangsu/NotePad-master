@@ -10,7 +10,7 @@ NotePad
   * noteslist_item.xml</br>
   添加显示时间的TextView
   `   
-  <TextView
+  <TextView</br>
         android:id="@+id/text1_time"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
