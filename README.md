@@ -79,20 +79,12 @@ NotePad
     }
     @Override
     protected void onListItemClick(ListView l, View v, int position, long id) {
-        // Constructs a new URI from the incoming URI and the row ID
         Uri uri = ContentUris.withAppendedId(getIntent().getData(), id);
-        // Gets the action from the incoming Intent
         String action = getIntent().getAction();
-        // Handles requests for note data
-        if (Intent.ACTION_PICK.equals(action) || Intent.ACTION_GET_CONTENT.equals(action)) {
-            // Sets the result to return to the component that called this Activity. The
-            // result contains the new URI
+        if (Intent.ACTION_PICK.equals(action) || Intent.ACTION_GET_CONTENT.equals(action)) 
             setResult(RESULT_OK, new Intent().setData(uri));
-        } else {
-            // Sends out an Intent to start an Activity that can handle ACTION_EDIT. The
-            // Intent's data is the note ID URI. The effect is to call NoteEdit.
+        else
             startActivity(new Intent(Intent.ACTION_EDIT, uri));
-        }
     }
     @Override
     public boolean onQueryTextSubmit(String query) {
