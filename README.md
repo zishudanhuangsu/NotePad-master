@@ -56,11 +56,9 @@ NotePad
   * NoteSearch</br>
   ```
  private static final String[] PROJECTION = new String[] {
-            NotePad.Notes._ID, // 0
-            NotePad.Notes.COLUMN_NAME_TITLE, // 1
-            //扩展 显示时间 颜色
-            NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, // 2
-            NotePad.Notes.COLUMN_NAME_BACK_COLOR
+            NotePad.Notes._ID, 
+            NotePad.Notes.COLUMN_NAME_TITLE, 
+            NotePad.Notes.COLUMN_NAME_CREATE_DATE, 
     };
   ```
   ```
